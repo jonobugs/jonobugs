@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonobugs
-- 👀 I’m interested in HTML, Javascript, CSS
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in HTML, Javascript, CSS, Kotlin and GDScript
+- 🌱 I’m currently fascinated with Godot
 - 💞️ I’m looking to collaborate on Android Studio
 - 📫 How to reach me jonobugs@yahoo.com
 
